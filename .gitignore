@@ -2,9 +2,20 @@
 build/
 .gradle/
 
+# Maven
+target/
+
 # IDEA
 .idea/
 *.iml
 
+# Eclipse
+.project
+.classpath
+.settings/
+
 # OSX
 .DS_Store
+
+# MaryTTS
+log/
